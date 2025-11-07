@@ -1,0 +1,15 @@
+https://marketplace.visualstudio.com/items?itemName=traBpUkciP.vscode-npm-scripts
+
+https://marketplace.visualstudio.com/items?itemName=yandeu.five-server
+
+https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css
+
+https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss
+
+
+
+
+https://tailwindcss.com/docs/hover-focus-and-other-states
+
+
+Tailwind Cheat Sheet

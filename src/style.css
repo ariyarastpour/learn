@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1,h2,h3,h4,h5,h6,p,a,span,input,select,option, label, button,html,body,div{
+    font-family:'peyda' !important;
+}
